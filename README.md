@@ -1,4 +1,3 @@
-```markdown
 # Backtester: Modular Trading Strategy Engine in Python
 
 This repository provides a customizable backtesting engine for evaluating algorithmic trading strategies using historical financial data. It supports real-time portfolio tracking, custom strategy logic, visualizations, and performance metrics.
